@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>620</width>
+    <height>548</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="0" column="0">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>Назва:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="1" colspan="7">
+     <widget class="QLineEdit" name="field_Name"/>
+    </item>
+    <item row="0" column="9" colspan="2">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>Категорія:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="11" colspan="2">
+     <widget class="QLineEdit" name="field_Category"/>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>Ціна:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="1" colspan="2">
+     <widget class="QLineEdit" name="field_Price"/>
+    </item>
+    <item row="1" column="9">
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>Кількість: </string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="11" colspan="2">
+     <widget class="QLineEdit" name="field_Count"/>
+    </item>
+    <item row="2" column="0" colspan="4">
+     <spacer name="horizontalSpacer_2">
+      <property name="orientation">
+       <enum>Qt::Orientation::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>174</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="2" column="4" colspan="2">
+     <widget class="QPushButton" name="pushButton_Add">
+      <property name="text">
+       <string>Add</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="6" colspan="3">
+     <widget class="QPushButton" name="pushButton_Delete">
+      <property name="text">
+       <string>Delete</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="9" colspan="2">
+     <widget class="QPushButton" name="pushButton_Update">
+      <property name="text">
+       <string>Update</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="11" colspan="2">
+     <spacer name="horizontalSpacer_3">
+      <property name="orientation">
+       <enum>Qt::Orientation::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>139</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="3" column="0" colspan="2">
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>Категорія:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="2">
+     <widget class="QComboBox" name="comboBox_Category"/>
+    </item>
+    <item row="3" column="3" colspan="2">
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>Ціна від:</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="5" colspan="2">
+     <widget class="QLineEdit" name="lineEdit_Price_from"/>
+    </item>
+    <item row="3" column="7">
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>до</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="8" colspan="2">
+     <widget class="QLineEdit" name="lineEdit_Price_to"/>
+    </item>
+    <item row="3" column="10" colspan="2">
+     <widget class="QPushButton" name="pushButton_Filter">
+      <property name="text">
+       <string>Filter</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="12">
+     <widget class="QPushButton" name="pushButton_ResetFilter">
+      <property name="text">
+       <string>Reset filter</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="0" colspan="13">
+     <widget class="QTableView" name="tableView_">
+      <property name="sortingEnabled">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>620</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
