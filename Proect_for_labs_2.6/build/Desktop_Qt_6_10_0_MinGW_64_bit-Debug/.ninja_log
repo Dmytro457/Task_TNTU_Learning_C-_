@@ -1,0 +1,13 @@
+# ninja log v6
+6	1043	7848111450637673	Product_catalog_autogen/timestamp	fc8201e7fab952f
+6	1043	7848111450637673	Product_catalog_autogen/mocs_compilation.cpp	fc8201e7fab952f
+6	1043	7848111450637673	F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Product_catalog_autogen/timestamp	fc8201e7fab952f
+6	1043	7848111450637673	F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Product_catalog_autogen/mocs_compilation.cpp	fc8201e7fab952f
+1076	4501	7848111452065282	CMakeFiles/Product_catalog.dir/tablecreator.cpp.obj	4b2b2813342ff9fa
+1068	4551	7848111451977467	CMakeFiles/Product_catalog.dir/databaseconnect.cpp.obj	24e1fe223e09db8
+1090	4625	7848111452202966	CMakeFiles/Product_catalog.dir/filterbychoose.cpp.obj	ec08134e0dc83757
+1083	5281	7848111452128209	CMakeFiles/Product_catalog.dir/productmodel.cpp.obj	44386d484d3f59eb
+1055	5285	7848111451850198	CMakeFiles/Product_catalog.dir/main.cpp.obj	5474e036cc5b4c9e
+1049	5521	7848111451797795	CMakeFiles/Product_catalog.dir/Product_catalog_autogen/mocs_compilation.cpp.obj	e9c24b93baaa7097
+1061	6247	7848111451912910	CMakeFiles/Product_catalog.dir/mainwindow.cpp.obj	c366a5dbcef6ee62
+6247	6717	7848111503774172	Product_catalog.exe	a14860ca36c4ff84

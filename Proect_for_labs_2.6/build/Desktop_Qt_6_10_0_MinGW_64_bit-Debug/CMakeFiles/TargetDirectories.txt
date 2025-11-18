@@ -1,0 +1,9 @@
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/Product_catalog.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/Product_catalog_autogen_timestamp_deps.dir
+F:/Git_Repo_OOP/Task_TNTU_Learning_C-_/Proect_for_labs_2.6/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/Product_catalog_autogen.dir

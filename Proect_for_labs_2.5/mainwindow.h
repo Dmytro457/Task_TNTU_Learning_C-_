@@ -31,6 +31,7 @@ private:
     bool useDegrees = true;
 
 private slots:
+    QString formatDouble(double value, int precision = 3);
     void digit_numbers();
     void on_pushButton_dot_clicked();
 

@@ -55,6 +55,22 @@ MainWindow::~MainWindow()
     delete ui;
 }
 
+QString MainWindow::formatDouble(double value, int precision) {
+    const double eps = 1e-7;
+    double rounded = qRound(value);
+    if (qFabs(value - rounded) < eps) {
+        return QString::number((qint64)rounded);
+    }
+    QString s = QString::number(value, 'f', precision);
+
+    while (s.contains('.') && (s.endsWith('0') || s.endsWith('.'))) {
+        if (s.endsWith('0')) s.chop(1);
+        else if (s.endsWith('.')) { s.chop(1); break; }
+    }
+    return s;
+}
+
+
 void MainWindow::digit_numbers()
 {
     QPushButton *button = (QPushButton *)sender();
@@ -161,17 +177,19 @@ void MainWindow::digit_numbers()
 
      if (type == "Whole numbers") {
          labelNumber = qRound(labelNumber);
-         result = QString::number(labelNumber, 'f', 0);
+         result = QString::number((qint64)labelNumber);
      }else{
-         result = QString::number(labelNumber, 'g', 15);
+         result = formatDouble(labelNumber, 3);
      }
      resultWidget->setResult(result);
      currentInput = result;
 
+     QString first_operation = formatDouble(num_first, 3);
+     QString second_operation = formatDouble(num_second, 3);
      QString record = QString("%1 %2 %3 = %4")
-                          .arg(num_first)
+                          .arg(first_operation)
                           .arg(operation)
-                          .arg(num_second)
+                          .arg(second_operation)
                           .arg(currentInput);
      historyWidget->addToHistory(record);
 
@@ -216,22 +234,22 @@ void MainWindow::digit_numbers()
      }
      QString type = ui->comboBox->currentText();
      if (type == "Whole numbers") {
-         resText = QString::number(qRound(result), 'f', 0);
+         resText = QString::number((qint64)qRound(result));
      } else {
-         resText = QString::number(result, 'g', 15);
+         resText = formatDouble(result, 3);
      }
      currentInput = resText;
      resultWidget->setResult(currentInput);
 
      QString numbersSymbol = QString::number(value_copy);
-     if(mode == "Degrees") {
+     if((operation == "sin" || operation == "cos" || operation == "tg") && mode == "Degrees") {
         numbersSymbol = QString::number(value_copy) +  "°";
      }
 
      QString record = QString("%1(%2) = %3")
                           .arg(operation)
                               .arg(numbersSymbol)
-                          .arg(resText);
+                          .arg(currentInput);
 
      historyWidget->addToHistory(record);
  }
