@@ -1,0 +1,38 @@
+{
+    "contacts": [
+        {
+            "address": "м. Тернопіль",
+            "birthday": "2004-12-19",
+            "email": "fegwg@gmail.com",
+            "firstName": "Василь",
+            "id": "3fe3f93a-e9f4-4eff-b99c-b481b4d55649",
+            "lastName": "Ковальчук",
+            "notes": "",
+            "phone": "+3803483425",
+            "photoPath": "data/photos/79561df4-5ee2-4901-b375-c70e24c8701a.jpg"
+        },
+        {
+            "address": "",
+            "birthday": "2025-12-19",
+            "email": "karuew@ukr.net",
+            "firstName": "Дмитро",
+            "id": "5bc78de8-f399-482d-9445-01d9ea8ca1f8",
+            "lastName": "Рудько",
+            "notes": "",
+            "phone": "+3805223463",
+            "photoPath": "data/photos/5f9f24fd-6388-435a-a167-e3f0ee39c45d.jpg"
+        },
+        {
+            "address": "",
+            "birthday": "2007-12-19",
+            "email": "ssdfwf@gmail.com",
+            "firstName": "Віталік",
+            "id": "6a93091e-971b-4322-9344-f5c720c6eea8",
+            "lastName": "Покропивний",
+            "notes": "",
+            "phone": "+3804226276",
+            "photoPath": "data/photos/73c549b2-898e-4a8b-96a1-caffe29cc285.jpg"
+        }
+    ],
+    "count": 3
+}

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1a4f6e72d6418c8f2dae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Address_books",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Address_books::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Address_books-Debug-1b287db93dcb43615eb1.json",
+					"name" : "Address_books",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Address_books_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Address_books_autogen-Debug-49584064a6e81a8d5ae0.json",
+					"name" : "Address_books_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Address_books_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Address_books_autogen_timestamp_deps-Debug-0649ff755f2af4b2481d.json",
+					"name" : "Address_books_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug",
+		"source" : "F:/Proect for Qt/Address_books"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

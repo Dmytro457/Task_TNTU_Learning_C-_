@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="icons/add.png">F:/Proect for Qt/Address_books/icons/add.png</file>
+    <file alias="icons/edit.png">F:/Proect for Qt/Address_books/icons/edit.png</file>
+    <file alias="icons/delete.png">F:/Proect for Qt/Address_books/icons/delete.png</file>
+    <file alias="icons/search.png">F:/Proect for Qt/Address_books/icons/search.png</file>
+    <file alias="icons/export.png">F:/Proect for Qt/Address_books/icons/export.png</file>
+    <file alias="icons/import.png">F:/Proect for Qt/Address_books/icons/import.png</file>
+  </qresource>
+</RCC>
+

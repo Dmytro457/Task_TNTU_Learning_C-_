@@ -1,0 +1,74 @@
+# ninja log v6
+43	794	7878682509375222	Address_books_autogen/timestamp	5332eac5e6dfb72b
+43	794	7878682509375222	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+811	861	7878586225094478	ui_contactdialog.h	15ef2a3d1ea0999e
+1243	5992	7878666178921183	CMakeFiles/Address_books.dir/main.cpp.obj	f4fbcce744b6886e
+43	794	7878682509375222	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+43	794	7878682509375222	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+795	4278	7878682510332030	CMakeFiles/Address_books.dir/Address_books_autogen/mocs_compilation.cpp.obj	8ee65cc457c0ea5d
+800	5177	7878682510381854	CMakeFiles/Address_books.dir/mainwindow.cpp.obj	498944be38f8928e
+1793	7497	7878646997822274	CMakeFiles/Address_books.dir/contact.cpp.obj	46a4907755f10d7a
+4196	4916	7878668301914123	Address_books.exe	a9b55cf7fddf16ef
+1799	8998	7878646997882071	CMakeFiles/Address_books.dir/contactmanager.cpp.obj	c7b4a9c92d44ac8c
+804	4258	7878682510421719	CMakeFiles/Address_books.dir/contacttablemodel.cpp.obj	4ff003f38fe8fa07
+293	345	7878621645596870	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ui_mainwindow.h	fdacbfbbff663d21
+2524	7871	7878660786970565	CMakeFiles/Address_books.dir/contactdialog.cpp.obj	d45ffda2c9fe92ce
+50	915	7878622949070435	build.ninja	5bed786c61a35ed8
+811	861	7878586225094478	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ui_contactdialog.h	15ef2a3d1ea0999e
+293	345	7878621645596870	ui_mainwindow.h	fdacbfbbff663d21
+35	661	7878684141195905	Address_books_autogen/timestamp	5332eac5e6dfb72b
+35	661	7878684141195905	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+35	661	7878684141195905	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+35	661	7878684141195905	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+666	3688	7878684142106238	CMakeFiles/Address_books.dir/main.cpp.obj	f4fbcce744b6886e
+662	3867	7878684142066380	CMakeFiles/Address_books.dir/Address_books_autogen/mocs_compilation.cpp.obj	8ee65cc457c0ea5d
+669	4446	7878684142146555	CMakeFiles/Address_books.dir/mainwindow.cpp.obj	498944be38f8928e
+65	695	7878687660967609	Address_books_autogen/timestamp	5332eac5e6dfb72b
+65	695	7878687660967609	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+65	695	7878687660967609	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+65	695	7878687660967609	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+712	3945	7878687661940287	CMakeFiles/Address_books.dir/contacttablemodel.cpp.obj	4ff003f38fe8fa07
+701	3950	7878687661820687	CMakeFiles/Address_books.dir/main.cpp.obj	f4fbcce744b6886e
+696	4200	7878687661770143	CMakeFiles/Address_books.dir/Address_books_autogen/mocs_compilation.cpp.obj	8ee65cc457c0ea5d
+705	4952	7878687661860561	CMakeFiles/Address_books.dir/mainwindow.cpp.obj	498944be38f8928e
+48	979	7878690973220024	Address_books_autogen/timestamp	5332eac5e6dfb72b
+48	979	7878690973220024	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+48	979	7878690973220024	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+48	979	7878690973220024	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+1000	5424	7878690974386115	CMakeFiles/Address_books.dir/contacttablemodel.cpp.obj	4ff003f38fe8fa07
+992	5614	7878690974306377	CMakeFiles/Address_books.dir/contact.cpp.obj	46a4907755f10d7a
+983	5928	7878690974226657	CMakeFiles/Address_books.dir/main.cpp.obj	f4fbcce744b6886e
+979	6021	7878690974186799	CMakeFiles/Address_books.dir/Address_books_autogen/mocs_compilation.cpp.obj	8ee65cc457c0ea5d
+996	6748	7878690974346249	CMakeFiles/Address_books.dir/contactmanager.cpp.obj	c7b4a9c92d44ac8c
+1004	6771	7878690974425982	CMakeFiles/Address_books.dir/contactdialog.cpp.obj	d45ffda2c9fe92ce
+987	7024	7878690974266523	CMakeFiles/Address_books.dir/mainwindow.cpp.obj	498944be38f8928e
+7024	7440	7878691034628040	Address_books.exe	a9b55cf7fddf16ef
+14	1145	7878750237894597	Address_books_autogen/timestamp	5332eac5e6dfb72b
+14	1145	7878750237894597	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+14	1145	7878750237894597	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+14	1145	7878750237894597	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+1151	7428	7878750238980972	CMakeFiles/Address_books.dir/main.cpp.obj	f4fbcce744b6886e
+1168	7521	7878750239160365	CMakeFiles/Address_books.dir/contacttablemodel.cpp.obj	4ff003f38fe8fa07
+1146	7863	7878750238931138	CMakeFiles/Address_books.dir/Address_books_autogen/mocs_compilation.cpp.obj	8ee65cc457c0ea5d
+1159	7957	7878750239070660	CMakeFiles/Address_books.dir/contact.cpp.obj	46a4907755f10d7a
+1172	8134	7878750239200229	CMakeFiles/Address_books.dir/contactdialog.cpp.obj	d45ffda2c9fe92ce
+48	207	7878752386318464	Address_books_autogen/timestamp	5332eac5e6dfb72b
+48	207	7878752386318464	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+48	207	7878752386318464	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+48	207	7878752386318464	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+210	2447	7878752387945890	CMakeFiles/Address_books.dir/contact.cpp.obj	46a4907755f10d7a
+212	2999	7878752387969238	CMakeFiles/Address_books.dir/contactmanager.cpp.obj	c7b4a9c92d44ac8c
+35	805	7878760123369469	Address_books_autogen/timestamp	5332eac5e6dfb72b
+35	805	7878760123369469	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+35	805	7878760123369469	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+35	805	7878760123369469	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+810	4320	7878760124525589	CMakeFiles/Address_books.dir/main.cpp.obj	f4fbcce744b6886e
+805	4635	7878760124485722	CMakeFiles/Address_books.dir/Address_books_autogen/mocs_compilation.cpp.obj	8ee65cc457c0ea5d
+814	5263	7878760124575420	CMakeFiles/Address_books.dir/mainwindow.cpp.obj	498944be38f8928e
+5263	5853	7878760169062189	Address_books.exe	a9b55cf7fddf16ef
+10	185	7878764600317015	Address_books_autogen/timestamp	5332eac5e6dfb72b
+10	185	7878764600317015	Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+10	185	7878764600317015	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/timestamp	5332eac5e6dfb72b
+10	185	7878764600317015	F:/Proect for Qt/Address_books/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/Address_books_autogen/mocs_compilation.cpp	5332eac5e6dfb72b
+186	2269	7878764602077200	CMakeFiles/Address_books.dir/contactdialog.cpp.obj	d45ffda2c9fe92ce
+2270	2818	7878764622904036	Address_books.exe	a9b55cf7fddf16ef
